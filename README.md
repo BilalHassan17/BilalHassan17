@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BilalHassan17
 - 👀 I’m interested in Coding
 - 🌱 I’m currently Student
-- 📫 You caan reach me on Linkedin www.linkedin.com/in/bilal-hassan-070288291
+- 📫 You can reach me on Linkedin www.linkedin.com/in/bilal-hassan-070288291
 - ⚡ Fun fact: The world's first computer programmer was Ada Lovelace, who wrote algorithms for Charles Babbage's Analytical Engine in the mid-1800s.
 
 <!---
